@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=author
+comment0.target=EventPost(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Post.\r\n\ \r\n\ @param\ author\ \ \ \ The\ username\ of\ the\ author\ of\ this\ post.\r\n
+comment1.params=
+comment1.target=void\ display()
+comment1.text=\r\n\ Display\ the\ details\ of\ this\ post.\r\n\ \r\n\ (Currently\:\ Print\ to\ the\ text\ terminal.\ This\ is\ simulating\ display\ \r\n\ in\ a\ web\ browser\ for\ now.)\r\n
+numComments=2

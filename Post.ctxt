@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=author
+comment0.target=Post(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Post.\r\n\ \r\n\ @param\ author\ \ \ \ The\ username\ of\ the\ author\ of\ this\ post.\r\n
+comment1.params=
+comment1.target=long\ getTimeStamp()
+comment1.text=\r\n\ Return\ the\ time\ of\ creation\ of\ this\ post.\r\n\ \r\n\ @return\ The\ post's\ creation\ time,\ as\ a\ system\ time\ value.\r\n
+comment2.params=time
+comment2.target=java.lang.String\ getTimeString(long)
+comment2.text=\r\n\ Return\ the\ string\ from\ timeString\r\n\ \r\n\ @returns\ A\ string\ indicating\ how\ much\ time\ has\ passed\ since\ the\ post\ was\ created\r\n
+comment3.params=time
+comment3.target=java.lang.String\ timeString(long)
+comment3.text=\r\n\ Create\ a\ string\ describing\ a\ time\ point\ in\ the\ past\ in\ terms\ \r\n\ relative\ to\ current\ time,\ such\ as\ "30\ seconds\ ago"\ or\ "7\ minutes\ ago".\r\n\ Currently,\ only\ seconds\ and\ minutes\ are\ used\ for\ the\ string.\r\n\ \r\n\ @param\ time\ \ The\ time\ value\ to\ convert\ (in\ system\ milliseconds)\r\n\ @return\ \ \ \ \ \ A\ relative\ time\ string\ for\ the\ given\ time\r\n
+comment4.params=
+comment4.target=java.lang.String\ getUserName()
+comment4.text=\ Return\ the\ username\ private\ field\r\n\ \r\n\ @return\ username\ Name\ of\ User\ who\ made\ the\ post\r\n
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\r\n\ Display\ the\ details\ of\ this\ post.\r\n\ \r\n\ (Currently\:\ Print\ to\ the\ text\ terminal.\ This\ is\ simulating\ display\ \r\n\ in\ a\ web\ browser\ for\ now.)\r\n
+numComments=6
